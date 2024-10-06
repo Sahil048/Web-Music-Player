@@ -2,7 +2,8 @@
 A simple Spotify clone built using HTML, CSS, and JavaScript, replicating the user interface and basic functionality of the Spotify web player.
 
 # Features
-Responsive UI: A fully responsive design that adapts to different screen sizes and devices.
+Responsive UI: A fully responsive design that adapts to different screen sizes and devices.      
+
 Play/Pause Functionality: Users can play and pause songs.
 Seekbar: A progress bar that shows the current time and allows users to seek within the track.
 Current Song Display: Shows the currently playing song with album cover art and title.
